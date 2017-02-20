@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TwoViewController.h
 //  父子视图控制器
 //
 //  Created by 纵昂 on 2017/2/20.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TwoViewController : UIViewController
 
 @end
-
